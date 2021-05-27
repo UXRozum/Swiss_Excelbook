@@ -14,7 +14,7 @@ Calculator for common UX/CX metrics
  * **NPS (Net Promoter Score)** - measures the loyalty of customers to a company
  * **CSI (Customer Satisfaction Score)** - the index of satisfaction with the product
  * **ODI (Outcome Driven Innovation)** - determining the significance of the job statement within the jtbd and the outcome driven innovation approach (Ulvik approach)
- * **Модель Кано** - proiritize features on a product roadmap
+ * **Kano model** - proiritize features on a product roadmap
  * **PSM (Price Sensitivity Meter)** - four questions to identify the optimal product price
 
 ## Features
