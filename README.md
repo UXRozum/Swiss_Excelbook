@@ -1,7 +1,7 @@
 # Swiss Research Excelbook for UX/CX metrics 
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/UXRozum/Swiss_Excelbook/blob/main/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.ru.md)
+[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/UXRozum/Swiss_Excelbook/blob/main/README.ru.md)
 
 Calculator for common UX/CX metrics
 
