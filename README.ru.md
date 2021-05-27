@@ -1,7 +1,7 @@
 # Швейцарский Исследовательский Эксельбук
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/UXRozum/Swiss_Excelbook/blob/main/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/UXRozum/Swiss_Excelbook/blob/main/README.ru.md)
+[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](https://github.com/UXRozum/Swiss_Excelbook/blob/main/README.ru.md)
 
 Калькулятор для распространенных UX/CX-метрик
 
