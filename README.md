@@ -1,22 +1,25 @@
-# Swiss_Excelbook
-Swiss Research Excelbook for UX/CX metrics
+# Swiss Research Excelbook for UX/CX metrics 
 
-Калькулятор для расчета распространенных юзабилити-метрик
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/UXRozum/Swiss_Excelbook/blob/main/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.ru.md)
 
-С его помощью можно посчитать:
+Calculator for common UX/CX metrics
 
- * **SUM (Single Usability Metric)** - единая метрика для измерения юзабилити. 
 
- * **UMUX (Usability Metric for User Experience)** - опросник для измерения юзабилити продукта. 
+## With this excelbook you can easily calculate:
 
- * **CES (Customer Effort Score)** - оценка сложности конкретного действия.
+ * **SUM (Single Usability Metric)** - a single metric for measuring usability
+ * **UMUX (Usability Metric for User Experience)** -  a questionnaire for measuring the usability of a product
+ * **CES (Customer Effort Score)** - assessment of the complexity of a particular action
+ * **NPS (Net Promoter Score)** - measures the loyalty of customers to a company
+ * **CSI (Customer Satisfaction Score)** - the index of satisfaction with the product
+ * **ODI (Outcome Driven Innovation)** - determining the significance of the job statement within the jtbd and the outcome driven innovation approach (Ulvik approach)
+ * **Модель Кано** - proiritize features on a product roadmap
+ * **PSM (Price Sensitivity Meter, или метод Ван-Вестендорпа)** - four questions to identify the optimal product price
 
- * **NPS (Net Promoter Score)** - индекс потребительской лояльности.
+## Features
 
- * **CSI (Customer Satisfaction Score)** - индекс удовлетворенности продуктом.
-
- * **ODI (Outcome Driven Innovation)** - определение значимости job statement в рамках jtbd и подхода outcome driven innovation (подход Ульвика)
-
- * **Модель Кано** - модель для оценки влияния определенных аттриубтов (фич) продукта на удовлетворенность этим продуктом.
-
- * **PSM (Price Sensitivity Meter, или метод Ван-Вестендорпа)** - четыре вопроса для выявления оптимальной цены продукта.
+* Easy calculation - just paste raw data (codes or answers) and get the results
+* Plots for every metric
+* Benchmarks, where possible
+* Easy localization and custom formulations 
